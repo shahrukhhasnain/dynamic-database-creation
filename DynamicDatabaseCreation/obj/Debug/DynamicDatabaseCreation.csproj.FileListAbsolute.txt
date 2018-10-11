@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\bin\Debug\DynamicDatabaseCreation.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\bin\Debug\DynamicDatabaseCreation.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\bin\Debug\DynamicDatabaseCreation.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form2.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form5.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form6.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form7.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form8.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\DynamicDatabaseCreation\DynamicDatabaseCreation\obj\Debug\DynamicDatabaseCreation.Form9.resources
